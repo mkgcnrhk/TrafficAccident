@@ -1,0 +1,13 @@
+/data/
+/.data/
+/inspect_output.txt
+/res.txt
+/res_utf8.txt
+__pycache__/
+*.log
+
+# 実行環境キャッシュ
+/dashboard/node_modules/
+/dashboard/.next/
+/dashboard/.pnp.*
+/dashboard/.yarn/
